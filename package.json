@@ -1,6 +1,6 @@
 {
   "name": "@iume/react-native-spinkit",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "title": "react-native-spinkit",
   "description": "A collection of animated loading indicators for React Native",
   "main": "index.js",
