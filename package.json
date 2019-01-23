@@ -1,6 +1,7 @@
 {
   "name": "@iume/react-native-spinkit",
   "version": "2.0.0",
+  "title": "react-native-spinkit",
   "description": "A collection of animated loading indicators for React Native",
   "main": "index.js",
   "keywords": [
@@ -17,7 +18,12 @@
     "type": "git",
     "url": "git://github.com/darleikroth/react-native-spinkit.git"
   },
-  "author": "Maxime Mezrahi <maxime.mezrahi@gmail.com> (https://github.com/maxs15)",
+  "author": {
+    "username": "maxs15",
+    "name": "Maxime Mezrahi",
+    "email": "maxime.mezrahi@gmail.com",
+    "url": "https://github.com/maxs15"
+  },
   "rnpm": {
     "commands": {
       "prelink": "node ./node_modules/@iume/react-native-spinkit/scripts/rnpm-prelink.js"
