@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/Shared/Work/Project/node_modules/react-native-spinkit/ios/RNSpinkit.xcodeproj">
+      location = "self:/Users/Shared/Work/Project/node_modules/@iume/react-native-spinkit/ios/RNSpinkit.xcodeproj">
    </FileRef>
 </Workspace>
